@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-06062020-064268";"";
+"REFERENCE";"47219-2001";"";
+"TraceParts.PartTitle";"1.10mm microSD Card Connector Hinge type";"";
+"TraceParts.InstanceId";"90-06062020-0642682N3XX9WWY2MK673V115V3T3RA";"";
+"DESIGN";"1.10mm microSD Card Connector Hinge type";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Molex";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"MOLEX:90-06062020-064268";"";
