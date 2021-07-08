@@ -1447,4 +1447,12 @@ Wire Wire Line
 Wire Wire Line
 	2250 4850 2000 4850
 Connection ~ 2000 4850
+Text Label 6550 3050 2    50   ~ 0
+GPIO0
+Wire Wire Line
+	6550 3050 6100 3050
+Wire Wire Line
+	4500 3050 4900 3050
+Text Label 4500 3050 0    50   ~ 0
+RESET
 $EndSCHEMATC
