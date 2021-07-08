@@ -1,3 +1,4 @@
-# ESP32 Underglow Controller
+# Miata CAN System
 
-![assets/render.png](assets/render.png)
+![assets/underglow-controller.png](assets/underglow-controller.png)
+![assets/headlight-controller.png](assets/headlight-controller.png)

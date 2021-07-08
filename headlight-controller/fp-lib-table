@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name miata-headlight-controller)(type KiCad)(uri ${KIPRJMOD}/library/miata-headlight-controller.pretty)(options "")(descr ""))
+  (lib (name SRD-05VDC-SL-C)(type KiCad)(uri ${KIPRJMOD}/library/SRD-05VDC-SL-C.pretty)(options "")(descr ""))
+  (lib (name Connector_Automotive)(type KiCad)(uri /home/connor/Documents/miata-headlight-controller/library/Connector_Automotive.pretty)(options "")(descr ""))
+  (lib (name Connector_SWD)(type KiCad)(uri /home/connor/Documents/miata-headlight-controller/library/Connector_SWD.pretty)(options "")(descr ""))
+)

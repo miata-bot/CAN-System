@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EL357N(B)(TA)-G
+D DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4
+K NPN DC Optocoupler
+F https://datasheet.lcsc.com/lcsc/1809192312_Everlight-Elec-EL357N-B-TA-G_C6649.pdf
+$ENDCMP
+#
+$CMP EL817
+D DC Optocoupler, Vce 35V, DIP-4
+K NPN DC Optocoupler
+F http://www.everlight.com/file/ProductFile/EL817.pdf
+$ENDCMP
+#
+#End Doc Library
