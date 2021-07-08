@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Connector_SDCard)(type KiCad)(uri ${KIPRJMOD}/../_library/Connector_SDCard.pretty)(options "")(descr ""))
+  (lib (name Icons)(type KiCad)(uri ${KIPRJMOD}/../_library/Icons.pretty)(options "")(descr ""))
+)

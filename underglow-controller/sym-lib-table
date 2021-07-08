@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name Connector_SDCard)(type Legacy)(uri ${KIPRJMOD}/library/Connector_SDCard/47219-2001.lib)(options "")(descr ""))
-)

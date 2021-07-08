@@ -2493,7 +2493,7 @@
       (net 1 GND))
     (pad G4 smd rect (at -6.875 4.7 90) (size 1.5 2.05) (layers F.Cu F.Paste F.Mask)
       (net 1 GND))
-    (model ${KIPRJMOD}/library/Connector_SDCard.pretty/47219-2001.stp
+    (model ${KIPRJMOD}/../_library/Connector_SDCard.pretty/47219-2001.stp
       (offset (xyz 0 0.75 0.75))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))

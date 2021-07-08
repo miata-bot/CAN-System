@@ -1,25 +1,16 @@
-# export files for BOM
-*.csv
-*.tsv
-*.xml
-
-# backup files
-*.*-bak
+# Temporary files
+*.000
 *.bak
 *.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+*.sch-bak
+*~
+_autosave-*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
 
-# Build output
-DEBUG
-*.o
-*.d
-*.bin
-*.elf
-*.map
-*.list
-src/Debug
-src/Debug/**/*
-.vscode
-.pio
-firmware/build
-
-hardware/Minimal/
+*.net
