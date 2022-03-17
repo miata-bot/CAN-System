@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "OSD3358-512M-BAS")(type "KiCad")(uri "${KIPRJMOD}/footprints/OSD3358-512M-BAS.pretty")(options "")(descr ""))
+)
